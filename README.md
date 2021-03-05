@@ -1,2 +1,4 @@
 # hello-world
-Tutorial repository craetion
+Tutorial repository creation
+
+That's amoreeeeee
